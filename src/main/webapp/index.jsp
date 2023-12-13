@@ -6,5 +6,6 @@
 </head>
 <body>
 <h2>Deployment success!!!</h2>
+<link href="Admin">
 </body>
 </html>
