@@ -46,11 +46,15 @@
 <div id="nav">
 London<br>
 
+
+<p><a href="https://www.google.com/">Google</a></p>
+
+<p><a href="html_images.asp">HTML Images</a></p>
+
 </div>
 
 <div id="section">
 <h1>London</h1>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F672532%2Fpexels-photo-672532.jpeg&tbnid=pJskNTPKfo_M6M&vet=12ahUKEwii0IOjlIyDAxUeR2wGHTDuCv0QMygEegQIARB0..i&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Flondon%2F&docid=9f3XtcUguxZdfM&w=2037&h=1362&q=london%20images&ved=2ahUKEwii0IOjlIyDAxUeR2wGHTDuCv0QMygEegQIARB0">
 <p>
 London is the capital city of England. It is the most populous city in the United Kingdom,
 with a metropolitan area of over 13 million inhabitants.
