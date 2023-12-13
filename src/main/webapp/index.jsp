@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Automate Deployment</title>
 
 <style>
 #header {
@@ -40,12 +40,12 @@
 
 <div id="header">
 <h1>City Gallery</h1>
+<h2>Deployment success!!!</h2>
 </div>
 
 <div id="nav">
 London<br>
-Paris<br>
-Tokyo<br>
+
 </div>
 
 <div id="section">
