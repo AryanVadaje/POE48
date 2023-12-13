@@ -49,7 +49,7 @@ London<br>
 
 <p><a href="https://www.google.com/">Google</a></p>
 
-<p><a href="html_images.asp">HTML Images</a></p>
+<p><a href="https://github.com/AryanVadaje">My GitProfile</a></p>
 
 </div>
 
