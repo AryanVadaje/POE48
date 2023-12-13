@@ -64,7 +64,7 @@ Standing on the River Thames, London has been a major settlement for two millenn
 its history going back to its founding by the Romans, who named it Londinium.
 </p>
 </div>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Flondon%2F&psig=AOvVaw2YowVsjfvUDT_4WQFETb7o&ust=1702548158826000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiomJuajIMDFQAAAAAdAAAAABAD">
+<img src="pexels-photo-672532.jpeg">
 
 </body>
 </html>
